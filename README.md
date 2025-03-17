@@ -1,1 +1,2 @@
-Simple .txt file encyption program built using C. Write anything you want to Encrypt in Input.txt, depending on what option you choose when you run the program, Encrypted.txt are the encryped contents of Input.txt and Decrypted.txt are the decrypted contents of Encrypted.txt
+# C Text File Encryption Program
+A simple CLI application written in C that encrypts and decrypts text files. The program reads text from `Input.txt` and writes its encrypted output to `Encrypted.txt`. It can also decrypted `Encrypted.txt` back into readable text in `Decrypted.txt`.
